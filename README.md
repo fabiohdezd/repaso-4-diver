@@ -1,3 +1,3 @@
 # repaso-4-diver
-<[!NOTE]
+<[!NOTE]>
 https://fabiohdezd.github.io/repaso-4-diver/
